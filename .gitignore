@@ -11,3 +11,10 @@
 *.lai
 *.la
 *.a
+
+#Ignore the final compile binary
+world-explorer
+
+#Ignore temporary files and backups
+*~
+#*#
